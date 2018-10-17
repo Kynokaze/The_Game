@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-10-17T16:22:12.822+02:00
+  initializedAtString: 2018-10-17T16:01:45.358+02:00
+  log:
+  - commitID: f05bf4e6fed67314731e3886dab398c122a14f05
+    mergeA: 
+    mergeB: 
+    authorName: Mathieu
+    authorEmail: rakotofaiths@gmail.com
+    commitEmail: rakotofaiths@gmail.com
+    commitName: Mathieu
+    summary: change name gitIgnore
+    description: change name gitIgnore
+    timeString: 2018-10-17T16:22:11.000+02:00
+    commitTimeString: 2018-10-17T16:22:11.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\mathi\Desktop\Unity Projects\The_Game\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: .gitignore.txt
+      status: 6
+      staged: 0
+  - commitID: 6aa51bd9cdfe983866f576da96d691ca55fe0117
+    mergeA: 
+    mergeB: 
+    authorName: Mathieu
+    authorEmail: rakotofaiths@gmail.com
+    commitEmail: rakotofaiths@gmail.com
+    commitName: Mathieu
+    summary: Ignore Git
+    description: Ignore Git
+    timeString: 2018-10-17T16:14:26.000+02:00
+    commitTimeString: 2018-10-17T16:14:26.000+02:00
+    changes:
+    - path: .gitignore.txt
+      fullPath: C:\Users\mathi\Desktop\Unity Projects\The_Game\.gitignore.txt
+      projectPath: ..\.gitignore.txt
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 881326607a284eed5f97be58d04abd8a568d946b
+    mergeA: 
+    mergeB: 
+    authorName: Kynokaze
+    authorEmail: 44232966+Kynokaze@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-10-17T15:18:19.000+02:00
+    commitTimeString: 2018-10-17T15:18:19.000+02:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\mathi\Desktop\Unity Projects\The_Game\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
